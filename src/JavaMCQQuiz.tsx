@@ -462,7 +462,7 @@ const JavaMCQQuiz = () => {
         } else {
           setQuizCompleted(true);
         }
-      }, 6000); // Increased time to read explanation
+      }, 2000); // Increased time to read explanation
     }
   };
 
